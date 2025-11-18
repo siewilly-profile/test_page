@@ -1,6 +1,4 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
-
 <style>
 a[target="_blank"]::after,
 a.external-link::after {
